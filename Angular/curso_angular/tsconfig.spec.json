@@ -1,0 +1,40 @@
+/* To learn more about this file see: https://angular.io/config/tsconfig. */
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/spec",
+    "types": [
+      "jasmine"
+    ]
+  },
+  "include": [
+    "src/**/*.spec.ts",
+    "src/**/*.d.ts"
+  ]
+}
+
+
+
+
+
+
+
+
+1. ETHERNET: DC-4A-3E-61-CE-0C 
+   WIFI: 80-00-0B-E0-55-C9
+
+2. ETHERNET: 
+   WIFI: 28:cf:e9:20:7d:47
+
+3. ETHERNET: 04-7C-16-3D-8A-5B
+   WIFI:F0-D4-15-22-08-EE
+
+
+
+
+
+
+
+
+
+

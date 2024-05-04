@@ -1,0 +1,7 @@
+/*  HOJA DE ESTILOS DEL COMPONENTE*/
+
+h1{
+    color: red;
+    background-color: aqua;
+    max-width: 1000px;
+}
